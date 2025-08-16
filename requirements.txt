@@ -19,7 +19,7 @@ transformers
 huggingface-hub
 
 # Environment Variable Management
-python-dotenv
+python-dotenv 
 
 # Machine Learning Utilities
 numpy

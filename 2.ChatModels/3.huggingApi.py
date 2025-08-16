@@ -10,5 +10,5 @@ llm=HuggingFaceEndpoint(
 
 model= ChatHuggingFace(llm=llm)
 
-result=model.invoke("who is CM of assam")
+result=model.invoke("who is the vic chancallar of sibsagar university")
 print(result.content)

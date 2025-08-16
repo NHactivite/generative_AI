@@ -5,5 +5,5 @@ load_dotenv();
 
 model=ChatGoogleGenerativeAI(model="gemini-1.5-flash")
 
-result=model.invoke("what is the captial of india")
+result=model.invoke("who is the vic chancallar of sibsagar university")
 print(result.content)
